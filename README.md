@@ -1,51 +1,39 @@
-💈 Barbearia Thiago 💈
+# **💈 Barbearia Thiago 💈**
 
-Barbearia Thiago é uma landing page moderna e responsiva para divulgação dos serviços de uma barbearia. O design é pensado para atrair clientes oferecendo uma experiência simples, elegante e fácil de navegar, seja no desktop ou no mobile.
+## **Descrição**
 
+**Barbearia Thiago** é uma landing page moderna e responsiva para divulgação dos serviços de uma barbearia.  
+O design é pensado para atrair clientes oferecendo uma experiência simples, elegante e fácil de navegar, seja no desktop ou no mobile.
 
+## **🚀 Funcionalidades**
 
-🚀 Funcionalidades 🚀
+* Layout 100% responsivo para todos os dispositivos  
+* Seção de serviços oferecidos com descrição e imagens  
+* Formulário de contato simples e direto  
+* Informações de localização e horário de atendimento  
+* Links para redes sociais para fácil comunicação  
 
-1. Layout 100% responsivo para todos os dispositivos
-2. Seção de serviços oferecidos com descrição e imagens
-3. Formulário de contato simples e direto
-4. Informações de localização e horário de atendimento
-5. Links para redes sociais para fácil comunicação
+## **🛠️ Tecnologias Utilizadas**
 
+* HTML  
+* CSS  
+* JavaScript  
+* Netlify (para deploy)  
 
+## **🌐 Deploy**
 
-🛠️ Tecnologias Utilizadas 🛠️
+Acesse a landing page online em:  
+👉 [https://barbeariathiago.netlify.app/](https://barbeariathiago.netlify.app/)
 
-•HTML
-•CSS
-•JavaScript
-•Netlify (para deploy)
+## **📦 Como usar localmente**
 
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/unkdep/BarbeariaThiago.git
+2. Abra o arquivo `index.html` no navegador.
 
+💡 **Observação:** Projeto estático, não requer servidor local.
 
-🌐 Deploy 🌐
+## **📄 Licença**
 
-Acesse a landing page online em:
-👉 https://barbeariathiago.netlify.app/
-
-
-
-📦 Como usar localmente 📦
-
-Clone o repositório:
-
-git clone https://github.com/unkdep/BarbeariaThiago.git
-Abra o arquivo index.html no navegador.
-
-Observação: Projeto estático, não requer servidor local.
-
-
-
-📄 Licença 📄
-
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
-
-
-![Preview do site Barbearia Thiago](img/imagemsite.png)
-
+Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
